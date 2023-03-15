@@ -1,0 +1,98 @@
+body{
+	background-color:#c06500;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+}
+section{
+	background-image: url("img/tinturas6.jpg");
+	text-align: center;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+section{
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 500px;
+}
+section h2{
+	font-size: 30px;
+}
+
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding:5px;
+}
+#menu ul li{
+	display: inline-block;
+	font-size: 20px;
+}
+#menu ul li a{
+	color: black
+
+}
+button{
+	background-color: #3B5C14
+}
+.conteiner{
+	background-color: #F7E3D5;
+	display:flex;
+	justify-content: center;
+}
+.image{
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+}	
+.text{
+	margin: 20px;
+}
+
+.conteiner{
+	background-color: #F7E3D5;
+	padding: 20px;
+}
+
+.conteiner2{
+	background-color: #F7E3D5;
+	display:flex;
+	justify-content: center;
+}
+.image2{
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+
+}
+.text{
+	margin: 20px;
+}
+.conteiner2{
+	background-color: #F7E3D5;
+	padding: 20px;
+}
+
+.conteiner3{
+	background-color: #F7E3D5;
+	display:flex;
+	justify-content: center;
+}
+.image3{
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+
+}
+.text3{
+	margin: 20px;
+}
+.conteiner3{
+	background-color:#F7E3D5;
+	padding: 20px;
+}
+
+
